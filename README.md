@@ -12,7 +12,7 @@ I build end-to-end AI systems — from prototype to production — with a focus 
 ## About
  
 - 🎓 PhD, Computational Mathematics — Penn State University
-- 🏢 Lead Data Scientist at **FINRA** (2022–present)
+- 🏢 Lead Data Scientist at **FINRA** (2022–2026)
 - 🔬 6+ years building NLP pipelines; 3+ years applying Generative AI in production
 - 📣 Internal LLM evaluation thought leader — co-authored a 50-page org-wide NLG evaluation reference and delivered FINRA-wide presentations on LLM pipeline design
 - 🏆 OpenAI Climate Hackathon — Honorable Mention (2022)
